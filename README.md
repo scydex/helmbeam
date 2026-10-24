@@ -35,6 +35,10 @@ Steps for Claude on the web, desktop and mobile, ChatGPT, Codex, Cursor, VS Code
 
 The server is `https://mcp.helmbeam.com` (Streamable HTTP, OAuth sign-in). This repository holds no Helmbeam code, data or credentials.
 
+## Licence
+
+MIT, copyright Scydex Ltd. The licence covers the files in this repository only, not the Helmbeam service, its data or its methodology.
+
 ## Support
 
 support@helmbeam.com. Helmbeam provides research tools. It does not place trades, move money or give personal advice.
