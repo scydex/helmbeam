@@ -11,7 +11,7 @@ claude plugin marketplace add scydex/helmbeam
 claude plugin install helmbeam@helmbeam
 ```
 
-Then start Claude Code (or run /reload-plugins in an open session), type /mcp and sign in to helmbeam. A Helmbeam page opens in your browser with a 6-digit number: type it in the Helmbeam app on your phone and tap Approve.
+Then start Claude Code (or run /reload-plugins in an open session), type /mcp, pick plugin:helmbeam:helmbeam and sign in. From your own terminal, `claude mcp login plugin:helmbeam:helmbeam` does the same. A Helmbeam page opens in your browser with a 6-digit number: type it in the Helmbeam app on your phone and tap Approve.
 
 The plugin adds the Helmbeam MCP server and the helmbeam-research skill, which tells your agent how to research with Helmbeam and keep your briefs up to date.
 
