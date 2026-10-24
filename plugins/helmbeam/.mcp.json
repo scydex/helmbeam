@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "helmbeam": {
+      "type": "http",
+      "url": "https://mcp.helmbeam.com"
+    }
+  }
+}

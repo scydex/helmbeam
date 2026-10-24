@@ -1,0 +1,12 @@
+{
+  "name": "helmbeam",
+  "version": "0.2.0",
+  "description": "Research companies with Helmbeam and keep every research brief in your Helmbeam account.",
+  "author": {
+    "name": "Scydex Ltd",
+    "email": "support@helmbeam.com",
+    "url": "https://helmbeam.com"
+  },
+  "homepage": "https://helmbeam.com/agents",
+  "keywords": ["company research", "earnings", "research brief", "investing"]
+}
