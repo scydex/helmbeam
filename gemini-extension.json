@@ -1,7 +1,7 @@
 {
   "name": "helmbeam",
-  "version": "0.2.0",
-  "description": "Company research, evidence and private investment-thesis briefs through Helmbeam.",
+  "version": "0.2.1",
+  "description": "Helmbeam helps you uncover opportunities in public markets, examine company evidence and track how it changes over time.",
   "mcpServers": {
     "helmbeam": {
       "httpUrl": "https://mcp.helmbeam.com",

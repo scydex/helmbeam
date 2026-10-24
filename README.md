@@ -1,6 +1,8 @@
 # Helmbeam agent plugins
 
-Official plugins from Helmbeam that connect your AI agent to Helmbeam, the company research app. Your agent researches the companies you follow with Helmbeam's data and saves a research brief to your account. You read every brief in the Helmbeam app, and every version is kept.
+Helmbeam is a research platform that helps self-directed investors uncover opportunities in public markets and track how the underlying evidence evolves over time.
+
+These official plugins connect your AI agent to Helmbeam. Your agent researches the companies you follow with Helmbeam's data and saves a research brief to your account. You read every brief in the Helmbeam app, and every version is kept.
 
 You need Helmbeam Pro (the free trial counts) or Trader, and the Helmbeam app 2.2.4 or later on your phone. You approve every agent in the app.
 
