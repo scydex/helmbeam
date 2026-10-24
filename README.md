@@ -9,9 +9,10 @@ You need Helmbeam Pro (the free trial counts) or Trader, and the Helmbeam app 2.
 ```
 claude plugin marketplace add scydex/helmbeam
 claude plugin install helmbeam@scydex
+claude mcp login plugin:helmbeam:helmbeam
 ```
 
-Then start Claude Code (or run /reload-plugins in an open session), type /mcp, pick plugin:helmbeam:helmbeam and sign in. From your own terminal, `claude mcp login plugin:helmbeam:helmbeam` does the same. A Helmbeam page opens in your browser with a 6-digit number: type it in the Helmbeam app on your phone and tap Approve.
+The last command opens a Helmbeam page in your browser with a 6-digit number: type it in the Helmbeam app on your phone and tap Approve. Then start Claude Code, or run /reload-plugins in an open session. An agent setting this up for you runs the sign-in as `script -q /dev/null claude mcp login plugin:helmbeam:helmbeam`, which gives the command the terminal it needs, so you only approve on your phone.
 
 The plugin adds the Helmbeam MCP server and the helmbeam-research skill, which tells your agent how to research with Helmbeam and keep your briefs up to date.
 
