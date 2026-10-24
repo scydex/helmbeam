@@ -8,7 +8,7 @@ You need Helmbeam Pro (the free trial counts) or Trader, and the Helmbeam app 2.
 
 ```
 claude plugin marketplace add scydex/helmbeam
-claude plugin install helmbeam@helmbeam
+claude plugin install helmbeam@scydex
 ```
 
 Then start Claude Code (or run /reload-plugins in an open session), type /mcp, pick plugin:helmbeam:helmbeam and sign in. From your own terminal, `claude mcp login plugin:helmbeam:helmbeam` does the same. A Helmbeam page opens in your browser with a 6-digit number: type it in the Helmbeam app on your phone and tap Approve.
@@ -29,7 +29,7 @@ Steps for Claude on the web, desktop and mobile, ChatGPT, Codex, Cursor, VS Code
 
 ## What's in this repository
 
-- `.claude-plugin/marketplace.json`: the Claude Code marketplace, named helmbeam.
+- `.claude-plugin/marketplace.json`: the Claude Code marketplace, named scydex.
 - `plugins/helmbeam/`: the Claude Code plugin, with the MCP server in `.mcp.json` and the skill in `skills/helmbeam-research/`.
 - `gemini-extension.json`: the Gemini CLI extension.
 

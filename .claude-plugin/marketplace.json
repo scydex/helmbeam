@@ -1,11 +1,11 @@
 {
-  "name": "helmbeam",
+  "name": "scydex",
   "owner": {
     "name": "Scydex Ltd",
     "email": "support@helmbeam.com"
   },
   "metadata": {
-    "description": "Helmbeam's official plugins: connect your agent to Helmbeam's company research and keep your research briefs in your account."
+    "description": "Official plugins from Scydex: Helmbeam company research for your AI agent, with your research briefs kept in your Helmbeam account."
   },
   "plugins": [
     {
